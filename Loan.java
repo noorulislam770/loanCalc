@@ -1,4 +1,3 @@
-package LOANCALCULATOR;
 
 
 public class Loan {
